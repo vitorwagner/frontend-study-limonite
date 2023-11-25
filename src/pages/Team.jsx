@@ -1,12 +1,12 @@
 import Header from "../components/Header";
 
-const Main = () => {
+const Team = () => {
   return (
     <div>
       <Header />
-      <h1>Main</h1>
+      <h1>Team page</h1>
     </div>
   );
 }
 
-export default Main;
+export default Team;
